@@ -79,13 +79,13 @@ input[type="radio"] {
 
 .accordion-item label i {
   opacity: 0;
-  transition: 0.1s;
+  transition: 0.5s ease-in-out;
 }
 
 .accordion-item:hover label>i {
   opacity: 1;
   transition: 0.5s;
-  color: #666363;
+  color: #b61f1f;
 }
 
 .accordion-item:hover {
@@ -98,7 +98,6 @@ input[type="radio"] {
   display: block;
   background-color: rgb(0, 26, 255);
   padding: 0.2em 0.5em;
-  /* border-radius: 50px; */
   border-radius: 3.125rem;
   position: absolute;
   top: 50%;
