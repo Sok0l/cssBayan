@@ -1,1 +1,0 @@
-https://Sok0l.github.io/cssBayan/cssBayan/index.html
