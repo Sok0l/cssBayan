@@ -111,7 +111,7 @@ input[type="radio"] {
 }
 
 input[type="radio"]:checked~label i {
-  transform: rotate(-90deg);
+  transform: rotate(45deg);
 }
 
 input[type="radio"]:checked~label {
